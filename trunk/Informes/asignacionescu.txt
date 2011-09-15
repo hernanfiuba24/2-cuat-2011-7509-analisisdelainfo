@@ -1,0 +1,10 @@
+caso de uso				persona
+
+solicitar tarjeta 			hernan
+efectuar transaccion			maxi
+enviar resumenes diarios		miguel
+generar resumenes de cuenta		flavio
+pagar tarjeta				santiago
+renovar tarjeta 			miguel
+solicitar baja de tarjeta 		sebastian
+mantener comercios 			cristian
