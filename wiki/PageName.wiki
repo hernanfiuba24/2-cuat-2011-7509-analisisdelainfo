@@ -1,0 +1,43 @@
+#summary One-sentence summary of this page.
+
+= Modificaciones a la fecha: 21/9/2011 =
+
+== Respecto a Hipotesis: ==
+
+  * No hubo cambios.
+
+== 1. Respecto a Alcance: ==
+
+  * No hubo cambios.
+
+== 2. Respecto a Objetivo: ==
+
+  * No hubo cambios.
+
+== 3. Diagrama de Actividades ==
+
+  * No hubo cambios. Por el momento no encuentro muchos defectos en esto, habria que mostrarselo al profesor una vez mas aver que dice y listo.
+
+== 4. Descripcion de Actividades ==
+
+  * No hubo cambios.
+
+== 5. Casos de Uso ==
+  === Enviar Operaciones Diarias ===
+    
+  * Actor primario: *comercio* 
+     * Esto esta mal, el actor primario de esto no puede ser el comercio ya que el tiempo es el que lo dispara.
+
+
+  ===Efectuar Transacción===
+  * Actor primario: comercio
+  * Actor secundario: _*Oficina de créditos*_.
+     * nunca puede ser el mismo sistema actor.
+
+  ===Renovar Tarjetas===
+  * Nose con que criterio decia que lo hacia diariamente, y segun dice el enunciado es anual. 
+
+
+  * El resto de casos de uso siguen iguales. Faltaria agregar unos detalles en el Generar Resumen de Cuenta, y el Pagar Tarjeta le falta aclarar algo del extend.
+
+
